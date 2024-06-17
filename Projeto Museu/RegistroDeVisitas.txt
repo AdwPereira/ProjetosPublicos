@@ -1,0 +1,1 @@
+O pedido de Visita foi [3, 'Roger', 'rogerinho@hotmail.com', 'Solicitação Diplomática', 'Quero visitar', ['Minecraft', ' COD', ' Battlefront 2']] Aprovado!
